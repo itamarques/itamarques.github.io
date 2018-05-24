@@ -46,7 +46,7 @@ End of message
 mail($myemail, $subject, $message);
 
 /* Redirect visitor to the thank you page */
-header('Location: thanks.htm');
+header('Location: thanks.html');
 exit();
 
 /* Functions we used */
