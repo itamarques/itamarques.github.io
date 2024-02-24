@@ -104,9 +104,9 @@ h2 {
   }
 }
 
-section.resume-section {
-  padding: 3rem 0;
-
+section.resume-section .my-auto {
+ margin-top: 0; /* Adjust this value as needed */
+    margin-bottom: 0; /* Adjust this value as needed */
 }
 
 section.resume-section .resume-item .resume-date {
