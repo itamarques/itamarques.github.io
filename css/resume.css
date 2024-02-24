@@ -105,9 +105,8 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding: 3rem 0;
+
 }
 
 section.resume-section .resume-item .resume-date {
@@ -124,10 +123,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 @media (min-width: 992px) {
-  section.resume-section {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
+    .resume-section {
+        padding: 5rem 0;
+    }
 }
 
 .bg-primary {
