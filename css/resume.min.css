@@ -97,6 +97,12 @@ section.resume-section{
 	border-bottom:1px solid #dee2e6;padding-top:5rem;
 	padding-bottom:5rem
 }
+
+.resume-section .my-auto {
+    margin-top: 0; /* Adjust this value as needed */
+    margin-bottom: 0; /* Adjust this value as needed */
+}
+
 section.resume-section .resume-item .resume-date{
 	min-width:none
 }
